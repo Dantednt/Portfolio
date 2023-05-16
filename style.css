@@ -1,0 +1,101 @@
+
+      body {
+        font-family: 'Courier New', Courier, monospace;
+        font-size: 16px;
+        line-height: 1.5;
+        background-color: #fff;
+        color: #333;
+      }
+      header {
+        padding: 1rem;
+        text-align: center;
+        background-color: #f2f2f2;
+      }
+      h1 {
+        font-size: 2rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+      }
+      main {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+      }
+      section {
+        margin-bottom: 2rem;
+      }
+      h2 {
+        font-size: 1.5rem;
+        font-weight: 700;
+        margin-bottom: 1rem;
+        text-align: center;
+      }
+      p {
+        margin-bottom: 1rem;
+      }
+    
+      .box {
+        width: 90%;
+        max-width: 600px;
+        margin: 0 auto;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #ffffff;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #1b1b1b;
+      }
+      
+      .box p {
+        margin-bottom: 10px;
+      }
+
+      .box1 {
+        width: 100%;
+        margin-bottom: 20px;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f7f7f7;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #333;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        float: left;
+      }
+      
+      .box1 a{
+        text-decoration: none;
+        color: inherit
+      }
+
+      .box1 h3 {
+        margin-top: 0;
+        text-decoration: none;
+        
+      }
+      
+      .box1 p {
+        margin-bottom: 10px;
+      }
+
+      .box1 i {
+        font-size: 20px;
+        margin-right: 10px;
+      }
+
+      .box2 {
+        width: 30%;
+        padding: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        background-color: #f7f7f7;
+        font-size: 16px;
+        line-height: 1.5;
+        color: #333;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        margin: 0 auto; /* centrar horizontalmente */
+      }
+     
